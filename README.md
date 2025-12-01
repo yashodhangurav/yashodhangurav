@@ -14,9 +14,9 @@
 ### 🙋‍♂️ About Me
 
 - 👨‍🎓 I'm a Computer Science Student
-- 🌱 Currently learning **MERN Stack & DevOps**
+- 🌱 Currently doing **DSA in C++**
 - 🔭 Exploring **Open Source Contributions**
-- 📫 Reach me here: **yashodhangurav@gmail.com**
+- 📫 Reach me here: **guravyashodhan@gmail.com**
 
 <p align="center">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" />
