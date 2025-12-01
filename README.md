@@ -1,4 +1,6 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="80%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="350px" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Yashodhan Gurav</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
