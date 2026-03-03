@@ -1,87 +1,51 @@
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashodhangurav&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=9ece6a" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodhangurav&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7aa2f7&text_color=9ece6a" width="300" />
+  
+  <br/>
+
+  # 🌌 Yashodhan Gurav
+  ### 🚀 Full Stack Architect | DSA & C++ Specialist | Open Source
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashodhangurav/)
+  [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/yashodhangurav/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guravyashodhan@gmail.com)
+
+  <img src="https://api.visitorbadge.io/api/visitors?path=yashodhangurav&label=PROFILE%20RANK&countColor=%23263171&style=flat-square" />
+</div>
+
+---
+
+### ⚡ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,py,js,react,redux,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,netlify,canva&perline=9" />
+</div>
+
+---
+
+### 🛠️ Featured Engineering Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **AiNexus** | AI-driven platform with custom CSS and authentication. | `Node.js` `Express` `EJS` `MongoDB` |
+| **SmartTrolley** | E-commerce solution for optimized shopping experiences. | `JavaScript` `HTML/CSS` `Middleware` |
+
+---
+
+### 📈 Contribution Heatmap
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodhangurav&theme=tokyonight&hide_border=true&background=0D1117" width="100%" />
+</div>
+
+---
+
+### 🤝 Let's Collaborate
+- 💬 Ask me about **MERN Stack** or **Low-level C++ Optimization**.
+- 📫 How to reach me: **[guravyashodhan@gmail.com](mailto:guravyashodhan@gmail.com)**
+- ⚡ Fun Fact: I spend my time on calls debugging and building aesthetic UIs.
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/m-pessi/m-pessi/master/res/top_header.png" width="100%" />
-
-  # ⚡ Yashodhan Gurav
-  ### 🌌 Full Stack Artisan | DSA Architect | Open Source Evangelist 🌌
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/yashodhangurav/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:guravyashodhan@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://leetcode.com/u/yashodhangurav/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
-  </p>
-
-  <img src="https://api.visitorbadge.io/api/visitors?path=yashodhangurav&label=RANK&countColor=%23ffa116&style=flat-square" />
-</div>
-
----
-
-### 🖋️ The Profile
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yashodhangurav&repo=AiNexus&theme=tokyonight" align="right" width="350" />
-
-- 🏛️ **Background:** Computer Science student with a passion for scalable systems.
-- 🗡️ **DSA:** Solving complex problems daily using **C++**.
-- 🛠️ **Full Stack:** Crafting seamless user experiences with **MERN** and **Tailwind CSS**.
-- 🚀 **Projects:** Currently perfecting **AiNexus** and **SmartTrolley**.
-- 🔭 **Vision:** Aiming to contribute to high-impact global open-source projects.
-</p>
-
----
-
-### 🧬 Professional Tech Stack
-
-<div align="center">
-
-| **Domain** | **Tools & Technologies** |
-| :--- | :--- |
-| **Languages** | `C++` `Java` `Python` `JavaScript` `HTML5` `CSS3` |
-| **Frontend** | `React.js` `Redux` `Tailwind CSS` `Bootstrap` `EJS` |
-| **Backend** | `Node.js` `Express.js` `Socket.io` |
-| **Database** | `MongoDB` `MySQL` |
-| **DevOps/Tools** | `Git` `NPM` `Netlify` `Postman` `Canva` |
-
-<br />
-
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,react,redux,nodejs,express,mongodb,mysql,tailwind,git&theme=dark" />
-
-</div>
-
----
-
-### 📊 Engineering Excellence
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashodhangurav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashodhangurav&layout=compact&theme=tokyonight&hide_border=true" height="195" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashodhangurav&theme=tokyonight&hide_border=true" width="100%" />
-</div>
-
----
-
-### 🏆 Featured Projects
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashodhangurav&repo=SmartTrolley&theme=tokyonight" />
-        </a>
-      </td>
-      <td>
-        <a href="#">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashodhangurav&repo=AiNexus&theme=tokyonight" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=150&section=footer&text=Keep%20Coding&fontSize=40&animation=twinkling" width="100%" />
 </div>
