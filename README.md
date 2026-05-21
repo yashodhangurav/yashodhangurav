@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Hi there, I'm Yashodhan Gurav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Yashodhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!-- Animated Typing Effect -->
 <a href="https://github.com/yashodhangurav">
