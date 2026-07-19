@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi there, I'm Yashodhan <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
 <!-- Animated Typing Effect -->
 <a href="https://github.com/yashodhangurav">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;C%2B%2B+%26+DSA+Specialist;Open+Source+Enthusiast;Crafting+Modern+Web+Experiences" alt="Typing SVG" />
