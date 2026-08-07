@@ -27,7 +27,7 @@
 
 ---
 
-### ✦ Professional Profile
+###
 
 > **Identity:** Computer Science student with a focus on writing clean, high-performance architecture.
 > **DSA:** Solving algorithmic challenges daily using **C++**.
